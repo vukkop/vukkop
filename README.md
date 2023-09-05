@@ -1,6 +1,21 @@
 <h1 align="center"><b>Hi , I'm Vukasin Koprivica </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="left">Familiar Languages and Tools:</h3>
+<h2 align="left">Abot me:</h2>
+<ul>
+  <li>Full Stack Software Developer</li>
+  <li>World Traveler</li>
+  <li>Wake, Kite and Snowboard enthusiast</li>
+</ul>
+
+<h2 align="left">Languages and Tools:</h2>
+
+<ul>
+  <li>Languages [C#, Python, Javascript, TypeScript, SQL, HTML5, CSS]</li>
+  <li>Frameworks [Express, Flask, Jijna2, React, Angular, Vue, ASP.NET Core, Entity Framework, JQuery, Bootstrap, MaterialUI]</li>
+  <li>Database [MySQL, MongoDB]</li>
+  <li>Tools [Git, GitHub, Mongoose, Node.js, LinQ, AJAX, PostManAPI, Figma, Canva]</li>
+</ul>
+
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
