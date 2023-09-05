@@ -10,6 +10,8 @@
 <h2 align="left">Connect with me:</h2>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Vukasin%20SKoprivica-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/vukkop/)
 [![Mail](https://img.shields.io/badge/Gmail-koprivica.vukasin@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:koprivica.vukasin@gmail.com.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Ahmad%20Sawalqeh-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ahmad-alsawalqeh/)
+[![Mail](https://img.shields.io/badge/Hotmail-sawalqa_jo@hotmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:sawalqa_jo@hotmail.com)
 
 <h2 align="left">Languages and Tools:</h2>
 <ul>
@@ -103,7 +105,6 @@
   </p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
 <p align=center>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -112,9 +113,7 @@
   </div>
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vukkop&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-  
-  <br><br><br><br><br><br><br><br><br>
-  
+
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=vukkop&theme=react&border=61dafb&hide_border=true" alt="vukkop" />
