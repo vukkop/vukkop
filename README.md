@@ -7,10 +7,6 @@
   <li>Wake, Kite and Snowboard enthusiast</li>
 </ul>
 
-<h2 align="left">Connect with me:</h2>
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Vukasin%20Koprivica-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/vukkop/)
-[![Mail](https://img.shields.io/badge/Gmail-koprivica.vukasin@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:koprivica.vukasin@gmail.com.com)
 
 
 <h2 align="left">Languages and Tools:</h2>
@@ -102,7 +98,12 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
   </a>
-  </p>
+</p>
+  
+<h2 align="left">Connect with me:</h2>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Vukasin%20Koprivica-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/vukkop/)
+[![Mail](https://img.shields.io/badge/Gmail-koprivica.vukasin@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:koprivica.vukasin@gmail.com.com)
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <p align=center>
