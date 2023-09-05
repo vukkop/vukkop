@@ -7,14 +7,19 @@
   <li>Wake, Kite and Snowboard enthusiast</li>
 </ul>
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Connect with me:</h2>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Vukasin%20SKoprivica-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/vukkop/)
+[![Mail](https://img.shields.io/badge/Gmail-koprivica.vukasin@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:koprivica.vukasin@gmail.com.com)
 
+<h2 align="left">Languages and Tools:</h2>
 <ul>
   <li>Languages [C#, Python, Javascript, TypeScript, SQL, HTML5, CSS]</li>
   <li>Frameworks [Express, Flask, Jijna2, React, Angular, Vue, ASP.NET Core, Entity Framework, JQuery, Bootstrap, MaterialUI]</li>
   <li>Database [MySQL, MongoDB]</li>
   <li>Tools [Git, GitHub, Mongoose, Node.js, LinQ, AJAX, PostManAPI, Figma, Canva]</li>
 </ul>
+<br>
+<br>
 
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -101,6 +106,16 @@
 <br>
 <p align=center>
   <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vukkop&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vukkop&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  
+  <br><br><br><br><br><br><br><br><br>
+  
+  <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=vukkop&theme=react&border=61dafb&hide_border=true" alt="vukkop" />
     </a>
@@ -108,15 +123,6 @@
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=vukkop&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vukkop&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vukkop&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <hr>
