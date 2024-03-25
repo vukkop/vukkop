@@ -12,9 +12,9 @@
 <h2 align="left">Languages and Tools:</h2>
 <ul>
   <li>Languages [C#, Python, Javascript, TypeScript, SQL, HTML5, CSS]</li>
-  <li>Frameworks [Express, Flask, Jijna2, React, Angular, Vue, ASP.NET Core, Entity Framework, JQuery, Bootstrap, MaterialUI]</li>
+  <li>Frameworks [Express, Flask, Jijna2, React, Angular, Vue, ASP.NET Core, Node.js, Entity Framework, JQuery, Bootstrap, MaterialUI, Tailwind, Daisy UI]</li>
   <li>Database [MySQL, MongoDB]</li>
-  <li>Tools [Git, GitHub, Mongoose, Node.js, LinQ, AJAX, PostManAPI, Figma, Canva]</li>
+  <li>Tools [Git, GitHub, Mongoose, LinQ, AJAX, PostManAPI, Figma, Canva]</li>
 </ul>
 <br>
 <br>
